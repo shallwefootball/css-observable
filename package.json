@@ -1,0 +1,8 @@
+{
+  "name": "css-observable",
+  "version": "0.0.1",
+  "description": "style for observable",
+  "style": "index.js",
+  "author": "Amos",
+  "license": "MIT"
+}
