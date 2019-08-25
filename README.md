@@ -11,6 +11,10 @@ Input code below in Obsevable cell
 html`<link href="https://unpkg.com/css-observable@latest/index.css" rel="stylesheet">`
 ```
 
+## Related Article
+
+* https://observablehq.com/@shallwefootball/observable-css
+
 ## Reference
 
 * https://observablehq.com/@tmcw/how-to-use-libraries-that-need-css
