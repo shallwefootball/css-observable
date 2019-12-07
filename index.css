@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Noto+Serif+KR&display=swap");
 
-* {
+body {
   font-family: "Noto Serif KR", serif;
   /* 
     https://jrgraphix.net/research/unicode_blocks.php 
