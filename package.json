@@ -1,6 +1,6 @@
 {
   "name": "css-observable",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "style for observable",
   "style": "index.js",
   "author": "Amos",
