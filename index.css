@@ -1,6 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=Noto+Serif+KR&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Noto+Serif+KR&display=swap");
 
 * {
-    font-family: 'Noto Serif KR', serif;
+  font-family: "Noto Serif KR", serif;
+  /* 
+    https://jrgraphix.net/research/unicode_blocks.php 
+    Hangul Jamo - U+1100-11FF
+    Hangul Compatibility Jamo - U+3130-318F
+    Hangul Syllables - U+AC00-D7AF  	
+  */
+  unicode-range: U+1100-11FF, U+3130-318F, U+AC00-D7AF;
 }
-
